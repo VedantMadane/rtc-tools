@@ -1,32 +1,18 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+RTC-Tools follows the [LF Projects Code of Conduct](https://lfprojects.org/policies/),
+consistent with [GOVERNANCE.md](GOVERNANCE.md) and the [Technical Charter](CHARTER.md).
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone.
+All participants in the project are expected to act respectfully and professionally
+in accordance with that policy.
 
-## Our Standards
+## Reporting
 
-Examples of behavior that contributes to a positive environment:
+Do **not** report Code of Conduct violations or other sensitive abuse via public
+GitHub issues.
 
-- Demonstrating empathy and kindness
-- Being respectful of differing opinions
-- Giving and gracefully accepting constructive feedback
-- Focusing on what is best for the community
-
-Examples of unacceptable behavior:
-
-- Harassment, trolling, or insulting comments
-- Public or private harassment
-- Publishing others' private information without permission
-
-## Enforcement
-
-Project maintainers are responsible for clarifying and enforcing standards.
-Instances of abusive behavior may be reported to the maintainers via GitHub issues
-or the contact method listed in the repository.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org),
-version 2.1.
+Report privately by emailing
+[info@rtctools.energy](mailto:info@rtctools.energy) — the same private channel
+already documented in [CONTRIBUTING.md](CONTRIBUTING.md) for sensitive reports.
+All complaints will be reviewed and investigated promptly and fairly, with
+regard for the privacy and security of the reporter.
