@@ -1,6 +1,6 @@
 # Code of Conduct
 
-RTC-Tools follows the [LF Projects Code of Conduct](https://lfprojects.org/policies/),
+RTC-Tools follows the [LF Projects Code of Conduct](https://lfprojects.org/policies/code-of-conduct/),
 consistent with [GOVERNANCE.md](GOVERNANCE.md) and the [Technical Charter](CHARTER.md).
 
 All participants in the project are expected to act respectfully and professionally
